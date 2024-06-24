@@ -1,0 +1,9 @@
+{
+    "posts": [
+        {
+            "body": "Hello all! Welcome to React Feed. Let's add some post !",
+            "author": "Kittima Meesrisong",
+            "id": "greeting-post"
+        }
+    ]
+}
