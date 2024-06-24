@@ -4,3 +4,6 @@ https://github.com/kittima-m/react-post-it
 # How to run
   1. run `npm install`
   2. run `npm start`
+
+# More Information
+  - Listening port : 8080
